@@ -1,0 +1,6 @@
+SELECT
+    BIRTH
+FROM
+    PEOPLE
+WHERE
+    LOWER(NAME) = LOWER('Emma Stone');

@@ -1,0 +1,6 @@
+SELECT
+    TITLE
+FROM
+    MOVIES
+WHERE
+    YEAR = 2008;
